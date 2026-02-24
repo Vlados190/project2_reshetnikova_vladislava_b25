@@ -34,3 +34,6 @@ delete from <таблица> where <условие>             - удалить
 info <таблица>                                     - информация о таблице
 exit                                               - выйти из программы
 help                                               - справка
+
+```
+https://asciinema.org/connect/25a2620d-41dd-4505-ab38-b396853f2ca4
