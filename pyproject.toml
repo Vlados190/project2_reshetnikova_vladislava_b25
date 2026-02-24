@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "project2-reshetnikova-vladislava-b25"
+version = "0.1.0"
+description = "Console DB project for Python"
+authors = ["Vlados190 <vlada101102@yandex.com>"]
+
+packages = [
+    { include = "src" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+prettytable = "^3.17.0"
+
+[tool.poetry.dev-dependencies]
+ruff = "^0.0.290"
+prompt-toolkit = "^3.0.52"
+
+[tool.poetry.scripts]
+project = "src.primitive_db.main:main"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+

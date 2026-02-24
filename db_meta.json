@@ -1,0 +1,10 @@
+{
+  "users": {
+    "_columns": {
+      "name": "str",
+      "age": "int",
+      "is_active": "bool"
+    },
+    "_records": []
+  }
+}
