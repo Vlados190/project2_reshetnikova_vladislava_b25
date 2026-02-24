@@ -36,4 +36,4 @@ exit                                               - выйти из прогр�
 help                                               - справка
 
 ```
-https://asciinema.org/connect/25a2620d-41dd-4505-ab38-b396853f2ca4
+![](https://asciinema.org/connect/25a2620d-41dd-4505-ab38-b396853f2ca4)
